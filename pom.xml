@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.syamn.sakuracmd</groupId>
     <artifactId>SakuraCmd</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>4.1-SNAPSHOT</version>
     <name>SakuraCmd</name>
     <description>CraftBukkit SakuraCmd Plugin</description>
 
